@@ -12,7 +12,7 @@
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
   <null name="build"/>
-  <null name="description"/>
+  <value name="description">desc</value>
   <value name="created_date">26-07-2023 05:02:18 GMT</value>
   <null name="extendedProperties"/>
 </Values>
